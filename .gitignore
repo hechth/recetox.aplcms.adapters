@@ -40,8 +40,9 @@ vignettes/*.pdf
 .Rproj.user
 
 ### VisualStudioCode ###
+.vscode/
 .vscode/*
-
+.vscode/launch.json
 
 ### VisualStudioCode Patch ###
 # Ignore all local history of files

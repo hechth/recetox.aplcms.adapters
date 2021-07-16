@@ -39,5 +39,10 @@ vignettes/*.pdf
 .Renviron
 .Rproj.user
 
-# VSCode files
-.vscode/
+### VisualStudioCode ###
+.vscode/*
+
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+**/.history

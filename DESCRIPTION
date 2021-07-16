@@ -2,11 +2,11 @@ Package: recetox.aplcms.adapters
 Title: What the Package Does (One Line, Title Case)
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Helge",
+           family = "Hecht",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
+           email = "helge.hecht@recetox.muni.cz",
+           comment = c(ORCID = "0000-0001-6744-996X"))
 Description: What the package does (one paragraph).
 License: MIT + file LICENSE
 Suggests: 

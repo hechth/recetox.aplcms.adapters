@@ -1,3 +1,5 @@
+#' @param peak_table Peak table from recetox.aplcms package.
+#'
 #' @export
 #' @import dplyr
 rcx_aplcms_to_xmsannotator <- function(peak_table) {
